@@ -3,7 +3,7 @@
 Official release packages for Airlock's local security-scanning workspace.
 The application source is maintained in a separate private repository.
 
-The first public release is being prepared. Once published, install with:
+Install the latest release:
 
 ```sh
 curl -fsSL https://www.tryairlock.ai/install.sh | sh
